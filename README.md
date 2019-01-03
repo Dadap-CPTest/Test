@@ -40,7 +40,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/GD0ov4K.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.tenor.com/images/c674ba98c40f6793eaf10a1356c1c36a/tenor.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
